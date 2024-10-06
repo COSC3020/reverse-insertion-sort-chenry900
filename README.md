@@ -36,3 +36,5 @@ constant factors.
 Describe your reasoning and the conclusion you've come to. Your reasoning is
 most important -- you can easily find the answer, but you need to demonstrate
 that you've understood the concept. Add your answer to this markdown file.
+
+I think that the average case will be nlogn because it shouldn't need to go through every number all the time so average will be about 1.5x of n.
